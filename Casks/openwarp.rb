@@ -1,6 +1,6 @@
 cask "openwarp" do
-  version "2026.05.12.2"
-  sha256 "b358259ed0b658aea6d5ee4aebe5e62a60291363f6abc9a9d2206d3a049edb7a"
+  version "2026.05.13.1"
+  sha256 "8fce09bf94b4823694e39d3f18e42d9263ce17ab07128b5f97d8f3d5f2da9cb7"
 
   url "https://github.com/LeoYoung-code/warp/releases/download/v#{version}/OpenWarp-arm64.dmg"
   name "OpenWarp"
