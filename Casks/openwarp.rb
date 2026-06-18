@@ -1,6 +1,6 @@
 cask "openwarp" do
   version "2026.06.18.1"
-  sha256 "c897e42f45616304f69bf4ab76f52800635fb4ae923c96b50247b27176e13f41"
+  sha256 "b851fe70f2eeb2b3f34c22e0fe6996d9d0c32aa89a3585bf88aec0ff272f8f7a"
 
   url "https://github.com/LeoYoung-code/warp/releases/download/v#{version}/Zap-arm64.dmg"
   name "Zap"
