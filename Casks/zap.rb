@@ -1,6 +1,6 @@
 cask "zap" do
   version "2026.10.31.1"
-  sha256 "2a4b58d5be4e7e497270a07691314cf3559bde81746a05df43544b1510cc1d8a"
+  sha256 "84ab448cfddd9ee6297f12968aef0ad3c55ec365444b73d7690dfcc82afcd883"
 
   url "https://github.com/LeoYoung-code/warp/releases/download/v#{version}/Zap-arm64.dmg"
   name "Zap"
